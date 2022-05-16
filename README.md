@@ -1,4 +1,5 @@
 # Send-Email-using-php_localhost
+note: No Need Of Downloading PhpMailer! :)
 "First of all mofily two file in your xampp directory"
 1. xampp/php/php.ini! 
 :[mail function]
