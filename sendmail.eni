@@ -1,0 +1,10 @@
+[sendmail]
+
+
+smtp_server=smtp.gmail.com
+smtp_port=587
+error_logfile=error.log
+debug_logfile=debug.log
+auth_username=officemails3019@gmail.com
+auth_password=!Passwordhere!
+force_sender=officemails3019@gmail.com
