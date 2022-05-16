@@ -1,0 +1,672 @@
+.desktop112-desktop112 {
+
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+/* .desktop112-image {
+  top: -101px;
+  left: 0px;
+  width: 1440px;
+  height: 1243px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(196, 196, 196, 1);
+} */
+.desktop112-image1 {
+  max-height: 1500px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  width: 1900px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.desktop112-image2 {
+  top: 633px;
+  left: 950px;
+  width: 355px;
+  height: 335px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(36, 36, 36, 0.8500000238418579);
+}
+
+.desktop112-text {
+  top: 699px;
+  left: 1050px;
+  color: rgba(255, 255, 255, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text01 {
+  top: 757px;
+  left: 1039px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text05 {
+  top: 856px;
+  left: 1066px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text06 {
+  top: 871px;
+  left: 1039px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-image3 {
+  top: 247px;
+  left: 135px;
+  width: 355px;
+  height: 337px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(36, 36, 36, 0.8500000238418579);
+}
+
+.desktop112-image4 {
+  top: 247px;
+  left: 541px;
+  width: 358px;
+  height: 337px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(36, 36, 36, 0.8500000238418579);
+}
+
+.desktop112-text07 {
+  top: 313px;
+  left: 643px;
+  color: rgba(255, 255, 255, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text08 {
+  top: 373px;
+  left: 633px;
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text12 {
+  top: 470px;
+  left: 657px;
+  color: rgba(255, 255, 255, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text13 {
+  top: 487px;
+  left: 633px;
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-image5 {
+  top: 247px;
+  left: 950px;
+  width: 355px;
+  height: 337px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(36, 36, 36, 0.8500000238418579);
+}
+
+.desktop112-text14 {
+  top: 313px;
+  left: 1050px;
+  color: rgba(255, 255, 255, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text15 {
+  top: 373px;
+  left: 1039px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text19 {
+  top: 470px;
+  left: 1066px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text20 {
+  top: 487px;
+  left: 1039px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text21 {
+  top: 313px;
+  left: 235px;
+  color: rgba(255, 255, 255, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text22 {
+  top: 373px;
+  left: 224px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text26 {
+  top: 470px;
+  left: 251px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text27 {
+  top: 487px;
+  left: 224px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-image6 {
+  top: 633px;
+  left: 135px;
+  width: 355px;
+  height: 335px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(36, 36, 36, 0.8500000238418579);
+}
+
+.desktop112-text28 {
+  top: 699px;
+  left: 235px;
+  color: rgba(255, 255, 255, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text29 {
+  top: 757px;
+  left: 224px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text33 {
+  top: 856px;
+  left: 251px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text34 {
+  top: 871px;
+  left: 224px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text35 {
+  top: 313px;
+  left: 235px;
+  color: rgba(255, 255, 255, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text36 {
+  top: 470px;
+  left: 251px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text37 {
+  top: 487px;
+  left: 224px;
+  color: rgba(255, 255, 255, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-image7 {
+  top: 633px;
+  left: 541px;
+  width: 358px;
+  height: 335px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(36, 36, 36, 0.8500000238418579);
+}
+
+.desktop112-text38 {
+  top: 699px;
+  left: 643px;
+  color: rgba(255, 255, 255, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text39 {
+  top: 757px;
+  left: 633px;
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text43 {
+  top: 856px;
+  left: 657px;
+  color: rgba(255, 255, 255, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text44 {
+  top: 871px;
+  left: 633px;
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Myriad Pro Bold;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text45 {
+  top: 57px;
+  left: 463px;
+  color: #00c0ff;
+  width: 514px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: ROBOTO;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop112-text46 {
+  top: 110px;
+  left: 178px;
+  color: #00c0ff;
+  width: 1095px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: raleway medium;
+  font-weight: 700px;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.center-data {
+  font-size: 40px;
+  color: #00c0ff;
+  text-align: center;
+  font-family: Raleway medium;
+  position: relative;
+  top: 200px;
+  left: 150px;
+
+}
+
+.center-data2 {
+  font-size: 20px;
+  color: #00c0ff;
+  font-family: Myriad Pro Regular;
+  position: relative;
+  top: 220px;
+  left: 150px;
+  max-width: 12%;
+  line-height: 50px;
+
+}
+
+.center-dat3 {
+  font-size: 40px;
+  color: #00c0ff;
+  text-align: center;
+  font-family: Raleway medium;
+  position: relative;
+  top: 200px;
+  left: 150px;
+
+}
+
+.center-data4 {
+  font-size: 20px;
+  color: #00c0ff;
+  font-family: Myriad Pro Regular;
+  position: relative;
+  top: 220px;
+  left: 150px;
+  max-width: 12%;
+  line-height: 50px;
+
+}
+.nav-itemm a{
+  color: white!important;
+}
